@@ -1,3 +1,10 @@
+/*
+
+A Simple Program For Playing Tic Tac Toe In C
+
+Made with ♥ by ishandeveloper 
+
+*/
 #include <stdio.h>
 #include <conio.h>
 
